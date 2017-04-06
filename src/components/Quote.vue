@@ -2,6 +2,7 @@
   <div>
     <div class="title">
       <slot name="title"></slot>
+      <span style="color: #ccc"><slot name="subtitle">Undefined named slot does nothing</slot></span>
     </div>
     <div>
       <slot name="content"></slot>
