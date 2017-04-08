@@ -4,3 +4,4 @@ plugins:
   - vue
 rules:
   no-new: off
+  no-console: off
